@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button,
+p {
+  display: inline-block;
+}
+
+button {
+  margin: 0 5px;
+}
